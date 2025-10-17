@@ -13,7 +13,7 @@ Une API REST simple pour gérer une liste de tâches, développée avec Express.
 1. Cloner le repository :
 ```bash
 git clone https://github.com/msaif91/Exercice2-Mohamad-Saifeddin.git
-cd Exercice2-Mohamad-Saifeddin
+cd mon_repertoire
 ```
 
 2. Installer les dépendances :
